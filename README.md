@@ -1,6 +1,6 @@
 # generator-ko-component-page
 
-A generator for [ko-component-page]()
+A generator for [ko-component-page](https://github.com/matthewnitschke/ko-component-page)
 
 # What it can do
 
