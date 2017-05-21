@@ -1,6 +1,6 @@
 {
   "name": "generator-ko-component-page",
-  "version": "0.0.0",
+  "version": "1.0.2",
   "description": "",
   "homepage": "",
   "author": {
@@ -18,6 +18,7 @@
   ],
   "dependencies": {
     "chalk": "^1.0.0",
+    "gulp-html-beautify": "^1.0.1",
     "yeoman-generator": "^0.22.0",
     "yosay": "^1.0.2"
   },

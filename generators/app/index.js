@@ -78,7 +78,6 @@ module.exports = yeoman.Base.extend({
     this.registerTransformStream(beautify({indent_size: 2 }));
 
     var options = this.options;
-
     if (this.props.action == "init"){
       this.fs.copyTpl(
         this.templatePath('index.html'),
